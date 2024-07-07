@@ -1,0 +1,25 @@
+.diagnostic-table-head {
+  background-color: #f6f7f8 !important;
+  /* background-color: #0080ff !important; */
+  border-radius: 20px !important;
+  width: 97%;
+  margin: 0 auto;
+  padding: 0.5rem 0 0.5rem 0 !important;
+}
+
+.diagnostic-table-head thead tr th {
+  padding: 0.5rem 0 0.5rem 1rem !important;
+  font-size: 14px;
+}
+.diagnostic-table-body {
+  /* background-color: #0080ff !important; */
+  border-radius: 20px !important;
+  width: 90%;
+  margin: 0 auto !important;
+}
+
+.diagnostic-table-body tbody tr td {
+  padding: 0.5rem 0 0.5rem 1rem !important;
+  font-size: 16px;
+  border-bottom: 1px solid #d6d6d6 !important;
+}

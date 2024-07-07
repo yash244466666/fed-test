@@ -1,0 +1,15 @@
+.Patients {
+  height: 85vh;
+  width: 25vw;
+  background-color: #ffffff;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  border-radius: 25px;
+}
+
+.PatientsHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}

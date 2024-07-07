@@ -1,23 +1,33 @@
-import logo from './logo.svg';
+import NavBar from './components/navbar/Navbar';
+import PatientsList from './components/PatientsList/PatientsList';
+// import Container from 'react-bootstrap/Container';
+import Chart from './components/Chart/Chart';
+import PatientDtls from './components/PatientDtls/PatientDtls';
+import Lab from './components/Lab/Lab';
+import Diagnostic from './components/Diagnostic/Diagnostic';
+
 import './App.css';
 
-function App() {
+function App () {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <NavBar />
+      <div className="content">
+
+        <PatientsList />
+        <div className="mdl-col">
+          <Chart />
+          <Diagnostic />
+
+        </div>
+        <div className="mdl-col">
+          <PatientDtls />
+          <Lab />
+
+        </div>
+
+      </div>
+
     </div>
   );
 }
