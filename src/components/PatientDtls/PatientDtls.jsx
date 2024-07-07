@@ -10,7 +10,7 @@ function PatientDtls () {
         height: '68.5vh',
         backgroundColor: 'white',
         borderRadius: '20px',
-        overflow: 'scroll',
+        overflow: 'hidden',
       }}
     >
       <FetchPtnt />

@@ -10,7 +10,8 @@ function Diagnostic () {
         height: '25vh',
         backgroundColor: 'white',
         borderRadius: '20px',
-        // overflow: 'scroll',
+
+        overflow: 'hidden',
       }}
     >
       <h2
@@ -36,7 +37,9 @@ function Diagnostic () {
           width: '100%',
           height: '50%',
           backgroundColor: 'white',
-          overflow: 'scroll',
+          // overflow: 'scroll',
+          overflowY: 'scroll',
+          overflowX: 'hidden',
         }}
       >
         <FetchPtntDgnst />

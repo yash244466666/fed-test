@@ -10,7 +10,8 @@ function Chart () {
         height: '58.5vh',
         backgroundColor: 'white',
         borderRadius: '20px',
-        overflow: 'scroll',
+        // overflowY: 'scroll',
+        overflow: 'hidden',
       }}
     >
       <h1 className="chart-title">Diagnosis History</h1>

@@ -10,7 +10,7 @@ function Lab () {
         height: '15vh',
         backgroundColor: 'white',
         borderRadius: '20px',
-        // overflow: 'scroll',
+        overflow: 'hidden',
       }}
     >
       <h2 className="labTitle">Lab Results</h2>
@@ -20,7 +20,8 @@ function Lab () {
           height: '55%',
           backgroundColor: 'white',
           borderRadius: '20px',
-          overflow: 'scroll',
+          overflowY: 'scroll',
+          overflowX: 'hidden',
         }}
       >
         <FetchPtntLab />

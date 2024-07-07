@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.88ec0e45.css",
-    "main.js": "/static/js/main.8d9b51e5.js",
+    "main.css": "/static/css/main.1000fb2b.css",
+    "main.js": "/static/js/main.18ce392a.js",
     "static/media/senior-woman-doctor-and-portrait-smile-for-health-2023-11-27-05-18-16-utc@2x.png": "/static/media/senior-woman-doctor-and-portrait-smile-for-health-2023-11-27-05-18-16-utc@2x.542121c26646b9ecc886.png",
     "static/media/respiratory rate.svg": "/static/media/respiratory rate.91b9df1e29e5ac8db704985dfba6f58b.svg",
     "static/media/group_FILL0_wght300_GRAD0_opsz24.svg": "/static/media/group_FILL0_wght300_GRAD0_opsz24.8e2b21f0f3058da9a4720e82e371322a.svg",
@@ -21,11 +21,11 @@
     "static/media/chat_bubble_FILL0_wght300_GRAD0_opsz24.svg": "/static/media/chat_bubble_FILL0_wght300_GRAD0_opsz24.d19000e7b1297adb19ca6baf1d700a9e.svg",
     "static/media/ArrowDown.svg": "/static/media/ArrowDown.b9c4d70b22fa0deaa1a5c9a9b6db8157.svg",
     "static/media/ArrowUp.svg": "/static/media/ArrowUp.bc2a412d5da9756768289864c2df3d73.svg",
-    "main.88ec0e45.css.map": "/static/css/main.88ec0e45.css.map",
-    "main.8d9b51e5.js.map": "/static/js/main.8d9b51e5.js.map"
+    "main.1000fb2b.css.map": "/static/css/main.1000fb2b.css.map",
+    "main.18ce392a.js.map": "/static/js/main.18ce392a.js.map"
   },
   "entrypoints": [
-    "static/css/main.88ec0e45.css",
-    "static/js/main.8d9b51e5.js"
+    "static/css/main.1000fb2b.css",
+    "static/js/main.18ce392a.js"
   ]
 }
