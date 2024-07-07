@@ -1,6 +1,7 @@
 <h1>NOTE: THIS SINGLE PAGE IS DEVELOPED FOR 1920X1080px , THERE WARE NO DESIGN TEMPLATE FOR RESPONSIVE DESIGN</h1>
 
 <h2>Live demo :  https://aquamarine-kleicha-e968d8.netlify.app/  </h2>
+<h2>GitHub Link : https://github.com/yash244466666/fed-test  </h2>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -8,7 +9,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+first
+### `npm i`
+then
 ### `npm start`
 
 Runs the app in the development mode.\
